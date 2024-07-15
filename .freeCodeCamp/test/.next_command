@@ -121,3 +121,5 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 echo hello SQL
 psql --username=freecodecamp --dbname=postgres
 touch student_info.sh
+chmod +x
+chmod +x student_info.sh

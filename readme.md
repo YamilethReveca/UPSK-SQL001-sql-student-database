@@ -25,26 +25,19 @@ Paso 2
    
 Paso 3
 
-	Buscar la barra de hamburguesa en el VSC: en view, command palette y luego escribir CodeRoad:start
+  Buscar la barra de hamburguesa en el VSC: en view, command palette y luego escribir CodeRoad:start
+
 
 ## Comandos
 
-Conecta a una base de datos específica: \c nombre_de_base_de_datos: 
-Ejemplo: \c students
-Lista todas las tablas y vistas en la base de datos actual: \d
-Ejemplo: \d 
-Lista todas las bases de datos disponibles: \l
-Ejemplo: \l 
-Sale de la consola psql y regresa al sistema operativo: \q
-Ejemplo: \q
-Muestra la lista de comandos disponibles y una breve descripción de cada uno: \?
-Ejemplo: \?
-Lista todos los roles (usuarios) en el servidor PostgreSQL, junto con sus atributos y pertenencia a grupos: \du 
-Ejemplo: \du
-Muestra información sobre la conexión actual, como la dirección IP y el puerto del servidor:\conninfo 
-Ejemplo: \conninfo
-Ejecuta comandos SQL desde un archivo específico: \i ruta/al/archivo.sql
-Ejemplo: \i /home/usuario/scripts/mi_script.sql
+* Conecta a una base de datos específica: \c nombre_de_base_de_datos: ejemplo: \c students
+* Lista todas las tablas y vistas en la base de datos actual: \d , ejemplo: \d 
+* Lista todas las bases de datos disponibles: \l, ejemplo: \l 
+* Sale de la consola psql y regresa al sistema operativo: \q, ejemplo: \q
+* Muestra la lista de comandos disponibles y una breve descripción de cada uno: \?, ejemplo: \?
+* Lista todos los roles (usuarios) en el servidor PostgreSQL, junto con sus atributos y pertenencia a grupos: \du, ejemplo: \du
+* Muestra información sobre la conexión actual, como la dirección IP y el puerto del servidor:\conninfo, ejemplo: \conninfo
+* Ejecuta comandos SQL desde un archivo específico: \i ruta/al/archivo.sql, ejemplo: \i /home/usuario/scripts/mi_script.sql
 
 ## Información necesaria para entender SQL
 

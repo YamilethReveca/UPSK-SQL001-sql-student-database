@@ -1,19 +1,19 @@
 # Información para iniciar el Tutorial SQL 1 
 
-.-Ingresar al Gitpod
-.- Buscar el proyecto donde quede en los tres puntos.
-.-Buscar la barra de hamburguesa en el VSC dar en view, command palette y luego escribir CodeRoad:start
-.- Se abre un panel de trabajo
-.-El terminal esta abierto para iniciar
-.-Colocar comando echo sql Hello
-.-Luego el comando psql --username=freecodecamp --dbname=postgres
-.- Continuar con el tutorial.
+* Ingresar al Gitpod
+* Buscar el proyecto donde quede en los tres puntos.
+* Buscar la barra de hamburguesa en el VSC dar en view, command palette y luego escribir CodeRoad:start
+* Se abre un panel de trabajo
+* El terminal esta abierto para iniciar
+* Colocar comando echo sql Hello
+* Luego el comando psql --username=freecodecamp --dbname=postgres
+* Continuar con el tutorial.
 
-# Gitpod
+## Gitpod
 
 Tutorial 1: https://github.com/Laboratoria/learn-sql-by-building-a-student-database-part-1
 
-# Pasos para iniciar el Tutorial 1
+## Pasos para iniciar el Tutorial 1
 
 Paso 1
 
@@ -27,7 +27,7 @@ Paso 3
 
 	Buscar la barra de hamburguesa en el VSC: en view, command palette y luego escribir CodeRoad:start
 
-# Comandos
+## Comandos
 
 Conecta a una base de datos específica: \c nombre_de_base_de_datos: 
 Ejemplo: \c students

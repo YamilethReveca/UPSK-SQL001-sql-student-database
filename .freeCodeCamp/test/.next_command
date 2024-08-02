@@ -153,3 +153,6 @@ trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 git branch
 git add .
+git commit -m "Modificando readme del tutorial I"
+git push origin TutorialI
+git add .
